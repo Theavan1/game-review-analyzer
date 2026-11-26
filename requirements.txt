@@ -1,0 +1,5 @@
+google-genai
+anthropic
+pydantic
+google-play-scraper
+pytest
